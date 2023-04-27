@@ -1,5 +1,9 @@
 HELP.md
 .gradle
+<<<<<<< HEAD
+=======
+
+>>>>>>> cb4cea17e0590d9324155eb69b9a2a1fc964450b
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
